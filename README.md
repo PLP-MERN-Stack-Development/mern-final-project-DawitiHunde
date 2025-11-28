@@ -1,5 +1,7 @@
 # Event Management System 🎉
 
+Frontend url = https://eteventmanagment.netlify.app 
+Backend url = https://mern-final-project-dawitihunde.onrender.com
 A full-stack MERN (MongoDB, Express, React, Node.js) application for managing events with user registration and ticketing functionality.
 
 ![Event Management System](https://img.shields.io/badge/MERN-Stack-green) ![License](https://img.shields.io/badge/license-ISC-blue)
