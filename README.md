@@ -306,5 +306,16 @@ This project is licensed under the ISC License.
 For support, email your-email@example.com or create an issue in the repository.
 
 ---
+Netlify 
+<img width="743" height="417" alt="image" src="https://github.com/user-attachments/assets/29a3423b-ae3c-4d04-ad1e-d5542679981b" />
+
+Render
+<img width="875" height="416" alt="image" src="https://github.com/user-attachments/assets/2ccf4d73-5b95-4734-b344-10bd70babebc" />
+
+Mongodb Atlas
+<img width="846" height="431" alt="image" src="https://github.com/user-attachments/assets/67a2ad09-e4ef-454c-b9ca-81c4865d9a4e" />
+
+
+
 
 **Made with ❤️ using the MERN Stack**
